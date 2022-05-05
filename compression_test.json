@@ -1,0 +1,1622 @@
+[
+    [
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.zstd",
+            "filetype": "parquet",
+            "compression": "zstd",
+            "read_time_in_seconds": 10.504999135970138,
+            "write_time_in_seconds": 8.046982776024379,
+            "filesize_in_bytes": 899409263
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.lz4",
+            "filetype": "parquet",
+            "compression": "lz4",
+            "read_time_in_seconds": 10.060774418001529,
+            "write_time_in_seconds": 5.969734740036074,
+            "filesize_in_bytes": 1298359688
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.brotli",
+            "filetype": "parquet",
+            "compression": "brotli",
+            "read_time_in_seconds": 13.464182968018577,
+            "write_time_in_seconds": 116.84190586698242,
+            "filesize_in_bytes": 921261895
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.gzip",
+            "filetype": "parquet",
+            "compression": "gzip",
+            "read_time_in_seconds": 14.126560252974741,
+            "write_time_in_seconds": 52.01804501703009,
+            "filesize_in_bytes": 927193207
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.snappy",
+            "filetype": "parquet",
+            "compression": "snappy",
+            "read_time_in_seconds": 10.067278554022778,
+            "write_time_in_seconds": 5.485177638009191,
+            "filesize_in_bytes": 1296787822
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.none",
+            "filetype": "parquet",
+            "compression": "none",
+            "read_time_in_seconds": 10.150699927005917,
+            "write_time_in_seconds": 4.242032869020477,
+            "filesize_in_bytes": 1745220412
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.zlib",
+            "filetype": "orc",
+            "compression": "zlib",
+            "read_time_in_seconds": 13.554488217981998,
+            "write_time_in_seconds": 31.697837902989704,
+            "filesize_in_bytes": 937283406
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.snappy",
+            "filetype": "orc",
+            "compression": "snappy",
+            "read_time_in_seconds": 9.792716621013824,
+            "write_time_in_seconds": 6.5172788290074095,
+            "filesize_in_bytes": 1249877302
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.lz4",
+            "filetype": "orc",
+            "compression": "lz4",
+            "read_time_in_seconds": 9.563826758996584,
+            "write_time_in_seconds": 5.8950045419624075,
+            "filesize_in_bytes": 1617864745
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.zstd",
+            "filetype": "orc",
+            "compression": "zstd",
+            "read_time_in_seconds": 10.350221458997112,
+            "write_time_in_seconds": 7.428864870977122,
+            "filesize_in_bytes": 907241800
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.uncompressed",
+            "filetype": "orc",
+            "compression": "uncompressed",
+            "read_time_in_seconds": 9.707724620995577,
+            "write_time_in_seconds": 5.79795976402238,
+            "filesize_in_bytes": 1617754319
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.lz4",
+            "filetype": "feather",
+            "compression": "lz4",
+            "read_time_in_seconds": 8.591078773024492,
+            "write_time_in_seconds": 3.5463313030195422,
+            "filesize_in_bytes": 1502098978
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.zstd",
+            "filetype": "feather",
+            "compression": "zstd",
+            "read_time_in_seconds": 9.082491425971966,
+            "write_time_in_seconds": 4.300399156054482,
+            "filesize_in_bytes": 1066376938
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.uncompressed",
+            "filetype": "feather",
+            "compression": "uncompressed",
+            "read_time_in_seconds": 8.512493022950366,
+            "write_time_in_seconds": 3.2867075630347244,
+            "filesize_in_bytes": 1874427914
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.infer",
+            "filetype": "csv",
+            "compression": "infer",
+            "read_time_in_seconds": 22.19370127801085,
+            "write_time_in_seconds": 78.13205389800714,
+            "filesize_in_bytes": 2157812386
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.gzip",
+            "filetype": "csv",
+            "compression": "gzip",
+            "read_time_in_seconds": 29.072986386017874,
+            "write_time_in_seconds": 159.82969799503917,
+            "filesize_in_bytes": 1024880920
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.bz2",
+            "filetype": "csv",
+            "compression": "bz2",
+            "read_time_in_seconds": 78.28812241199194,
+            "write_time_in_seconds": 194.98506430798443,
+            "filesize_in_bytes": 941813442
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.zip",
+            "filetype": "csv",
+            "compression": "zip",
+            "read_time_in_seconds": 27.718526215001475,
+            "write_time_in_seconds": 132.18239918502513,
+            "filesize_in_bytes": 1035725734
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.xz",
+            "filetype": "csv",
+            "compression": "xz",
+            "read_time_in_seconds": 67.93812502996298,
+            "write_time_in_seconds": 816.4773556630244,
+            "filesize_in_bytes": 919902148
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.zstd",
+            "filetype": "csv",
+            "compression": "zstd",
+            "read_time_in_seconds": 23.97447546402691,
+            "write_time_in_seconds": 94.65349794202484,
+            "filesize_in_bytes": 1026760715
+        }
+    ],
+    [
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.zstd",
+            "filetype": "parquet",
+            "compression": "zstd",
+            "read_time_in_seconds": 10.887449542991817,
+            "write_time_in_seconds": 7.9317878460278735,
+            "filesize_in_bytes": 899409263
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.lz4",
+            "filetype": "parquet",
+            "compression": "lz4",
+            "read_time_in_seconds": 10.344783974986058,
+            "write_time_in_seconds": 6.045665785029996,
+            "filesize_in_bytes": 1298359688
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.brotli",
+            "filetype": "parquet",
+            "compression": "brotli",
+            "read_time_in_seconds": 12.868921148008667,
+            "write_time_in_seconds": 121.82887365401257,
+            "filesize_in_bytes": 921261895
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.gzip",
+            "filetype": "parquet",
+            "compression": "gzip",
+            "read_time_in_seconds": 14.456516876001842,
+            "write_time_in_seconds": 52.91750477597816,
+            "filesize_in_bytes": 927193207
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.snappy",
+            "filetype": "parquet",
+            "compression": "snappy",
+            "read_time_in_seconds": 10.200513750954997,
+            "write_time_in_seconds": 5.522281047014985,
+            "filesize_in_bytes": 1296787822
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.none",
+            "filetype": "parquet",
+            "compression": "none",
+            "read_time_in_seconds": 9.728142792009749,
+            "write_time_in_seconds": 4.2592476540012285,
+            "filesize_in_bytes": 1745220412
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.zlib",
+            "filetype": "orc",
+            "compression": "zlib",
+            "read_time_in_seconds": 13.615339481970295,
+            "write_time_in_seconds": 32.499454079021234,
+            "filesize_in_bytes": 937283406
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.snappy",
+            "filetype": "orc",
+            "compression": "snappy",
+            "read_time_in_seconds": 9.951452479988802,
+            "write_time_in_seconds": 6.499636313994415,
+            "filesize_in_bytes": 1249877302
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.lz4",
+            "filetype": "orc",
+            "compression": "lz4",
+            "read_time_in_seconds": 9.59196015400812,
+            "write_time_in_seconds": 5.9149825889617205,
+            "filesize_in_bytes": 1617864745
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.zstd",
+            "filetype": "orc",
+            "compression": "zstd",
+            "read_time_in_seconds": 10.655146253993735,
+            "write_time_in_seconds": 7.458588177047204,
+            "filesize_in_bytes": 907241800
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.uncompressed",
+            "filetype": "orc",
+            "compression": "uncompressed",
+            "read_time_in_seconds": 9.699020594998728,
+            "write_time_in_seconds": 5.984347209974658,
+            "filesize_in_bytes": 1617754319
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.lz4",
+            "filetype": "feather",
+            "compression": "lz4",
+            "read_time_in_seconds": 8.65641155996127,
+            "write_time_in_seconds": 3.5356920170015655,
+            "filesize_in_bytes": 1502098978
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.zstd",
+            "filetype": "feather",
+            "compression": "zstd",
+            "read_time_in_seconds": 9.25888701400254,
+            "write_time_in_seconds": 4.608678145974409,
+            "filesize_in_bytes": 1066376938
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.uncompressed",
+            "filetype": "feather",
+            "compression": "uncompressed",
+            "read_time_in_seconds": 8.39004893496167,
+            "write_time_in_seconds": 3.6815597059903666,
+            "filesize_in_bytes": 1874427914
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.infer",
+            "filetype": "csv",
+            "compression": "infer",
+            "read_time_in_seconds": 22.284354268980678,
+            "write_time_in_seconds": 77.78680019499734,
+            "filesize_in_bytes": 2157812386
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.gzip",
+            "filetype": "csv",
+            "compression": "gzip",
+            "read_time_in_seconds": 29.043109435995575,
+            "write_time_in_seconds": 162.70919427002082,
+            "filesize_in_bytes": 1024880920
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.bz2",
+            "filetype": "csv",
+            "compression": "bz2",
+            "read_time_in_seconds": 77.00207098899409,
+            "write_time_in_seconds": 191.30359447799856,
+            "filesize_in_bytes": 941813442
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.zip",
+            "filetype": "csv",
+            "compression": "zip",
+            "read_time_in_seconds": 27.951979293953627,
+            "write_time_in_seconds": 131.5868191139889,
+            "filesize_in_bytes": 1035725734
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.xz",
+            "filetype": "csv",
+            "compression": "xz",
+            "read_time_in_seconds": 68.28985996998381,
+            "write_time_in_seconds": 826.4179661030066,
+            "filesize_in_bytes": 919902148
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.zstd",
+            "filetype": "csv",
+            "compression": "zstd",
+            "read_time_in_seconds": 23.884523598011583,
+            "write_time_in_seconds": 93.63995075202547,
+            "filesize_in_bytes": 1026760715
+        }
+    ],
+    [
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.zstd",
+            "filetype": "parquet",
+            "compression": "zstd",
+            "read_time_in_seconds": 10.857493025949225,
+            "write_time_in_seconds": 7.86929818498902,
+            "filesize_in_bytes": 899409263
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.lz4",
+            "filetype": "parquet",
+            "compression": "lz4",
+            "read_time_in_seconds": 10.346114322019275,
+            "write_time_in_seconds": 6.213605362980161,
+            "filesize_in_bytes": 1298359688
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.brotli",
+            "filetype": "parquet",
+            "compression": "brotli",
+            "read_time_in_seconds": 13.4310821609688,
+            "write_time_in_seconds": 115.197375669959,
+            "filesize_in_bytes": 921261895
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.gzip",
+            "filetype": "parquet",
+            "compression": "gzip",
+            "read_time_in_seconds": 13.99004577100277,
+            "write_time_in_seconds": 52.589537782012485,
+            "filesize_in_bytes": 927193207
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.snappy",
+            "filetype": "parquet",
+            "compression": "snappy",
+            "read_time_in_seconds": 10.64717406895943,
+            "write_time_in_seconds": 5.556325484998524,
+            "filesize_in_bytes": 1296787822
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.none",
+            "filetype": "parquet",
+            "compression": "none",
+            "read_time_in_seconds": 10.02671902597649,
+            "write_time_in_seconds": 4.354965434991755,
+            "filesize_in_bytes": 1745220412
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.zlib",
+            "filetype": "orc",
+            "compression": "zlib",
+            "read_time_in_seconds": 13.694334026018623,
+            "write_time_in_seconds": 31.7824008030002,
+            "filesize_in_bytes": 937283406
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.snappy",
+            "filetype": "orc",
+            "compression": "snappy",
+            "read_time_in_seconds": 9.90929355903063,
+            "write_time_in_seconds": 6.227286970010027,
+            "filesize_in_bytes": 1249877302
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.lz4",
+            "filetype": "orc",
+            "compression": "lz4",
+            "read_time_in_seconds": 9.818312976974994,
+            "write_time_in_seconds": 5.954766450042371,
+            "filesize_in_bytes": 1617864745
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.zstd",
+            "filetype": "orc",
+            "compression": "zstd",
+            "read_time_in_seconds": 10.339237312029582,
+            "write_time_in_seconds": 7.435846823034808,
+            "filesize_in_bytes": 907241800
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.uncompressed",
+            "filetype": "orc",
+            "compression": "uncompressed",
+            "read_time_in_seconds": 9.808488551003393,
+            "write_time_in_seconds": 5.76510307501303,
+            "filesize_in_bytes": 1617754319
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.lz4",
+            "filetype": "feather",
+            "compression": "lz4",
+            "read_time_in_seconds": 8.854039685975295,
+            "write_time_in_seconds": 3.5467364380019717,
+            "filesize_in_bytes": 1502098978
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.zstd",
+            "filetype": "feather",
+            "compression": "zstd",
+            "read_time_in_seconds": 9.21905411197804,
+            "write_time_in_seconds": 4.5738341200049035,
+            "filesize_in_bytes": 1066376938
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.uncompressed",
+            "filetype": "feather",
+            "compression": "uncompressed",
+            "read_time_in_seconds": 8.45003240799997,
+            "write_time_in_seconds": 3.292400380014442,
+            "filesize_in_bytes": 1874427914
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.infer",
+            "filetype": "csv",
+            "compression": "infer",
+            "read_time_in_seconds": 22.6751564219594,
+            "write_time_in_seconds": 78.86627189198043,
+            "filesize_in_bytes": 2157812386
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.gzip",
+            "filetype": "csv",
+            "compression": "gzip",
+            "read_time_in_seconds": 29.73500388301909,
+            "write_time_in_seconds": 167.74015351303387,
+            "filesize_in_bytes": 1024880920
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.bz2",
+            "filetype": "csv",
+            "compression": "bz2",
+            "read_time_in_seconds": 77.18112345802365,
+            "write_time_in_seconds": 193.27406237396644,
+            "filesize_in_bytes": 941813442
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.zip",
+            "filetype": "csv",
+            "compression": "zip",
+            "read_time_in_seconds": 27.69230900995899,
+            "write_time_in_seconds": 131.09971276298165,
+            "filesize_in_bytes": 1035725734
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.xz",
+            "filetype": "csv",
+            "compression": "xz",
+            "read_time_in_seconds": 68.07868897198932,
+            "write_time_in_seconds": 823.2489669799688,
+            "filesize_in_bytes": 919902148
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.zstd",
+            "filetype": "csv",
+            "compression": "zstd",
+            "read_time_in_seconds": 24.011968671984505,
+            "write_time_in_seconds": 94.51434334099758,
+            "filesize_in_bytes": 1026760715
+        }
+    ],
+    [
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.zstd",
+            "filetype": "parquet",
+            "compression": "zstd",
+            "read_time_in_seconds": 10.578092908021063,
+            "write_time_in_seconds": 8.12573698401684,
+            "filesize_in_bytes": 899409263
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.lz4",
+            "filetype": "parquet",
+            "compression": "lz4",
+            "read_time_in_seconds": 10.277282064955216,
+            "write_time_in_seconds": 5.98904869199032,
+            "filesize_in_bytes": 1298359688
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.brotli",
+            "filetype": "parquet",
+            "compression": "brotli",
+            "read_time_in_seconds": 13.17866845196113,
+            "write_time_in_seconds": 118.10232672898564,
+            "filesize_in_bytes": 921261895
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.gzip",
+            "filetype": "parquet",
+            "compression": "gzip",
+            "read_time_in_seconds": 13.712935890012886,
+            "write_time_in_seconds": 52.367184835951775,
+            "filesize_in_bytes": 927193207
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.snappy",
+            "filetype": "parquet",
+            "compression": "snappy",
+            "read_time_in_seconds": 10.22988625697326,
+            "write_time_in_seconds": 5.459839871968143,
+            "filesize_in_bytes": 1296787822
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.none",
+            "filetype": "parquet",
+            "compression": "none",
+            "read_time_in_seconds": 10.467109268996865,
+            "write_time_in_seconds": 4.486312730994541,
+            "filesize_in_bytes": 1745220412
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.zlib",
+            "filetype": "orc",
+            "compression": "zlib",
+            "read_time_in_seconds": 13.484222527011298,
+            "write_time_in_seconds": 32.0786042099935,
+            "filesize_in_bytes": 937283406
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.snappy",
+            "filetype": "orc",
+            "compression": "snappy",
+            "read_time_in_seconds": 9.892600731982384,
+            "write_time_in_seconds": 6.246341548976488,
+            "filesize_in_bytes": 1249877302
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.lz4",
+            "filetype": "orc",
+            "compression": "lz4",
+            "read_time_in_seconds": 9.825429080985487,
+            "write_time_in_seconds": 5.798266967001837,
+            "filesize_in_bytes": 1617864745
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.zstd",
+            "filetype": "orc",
+            "compression": "zstd",
+            "read_time_in_seconds": 10.312375016044825,
+            "write_time_in_seconds": 7.402949342038482,
+            "filesize_in_bytes": 907241800
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.uncompressed",
+            "filetype": "orc",
+            "compression": "uncompressed",
+            "read_time_in_seconds": 9.718913908000104,
+            "write_time_in_seconds": 5.76204434299143,
+            "filesize_in_bytes": 1617754319
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.lz4",
+            "filetype": "feather",
+            "compression": "lz4",
+            "read_time_in_seconds": 8.719677645945922,
+            "write_time_in_seconds": 3.579492876015138,
+            "filesize_in_bytes": 1502098978
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.zstd",
+            "filetype": "feather",
+            "compression": "zstd",
+            "read_time_in_seconds": 9.36216165299993,
+            "write_time_in_seconds": 4.186551955994219,
+            "filesize_in_bytes": 1066376938
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.uncompressed",
+            "filetype": "feather",
+            "compression": "uncompressed",
+            "read_time_in_seconds": 8.28400409599999,
+            "write_time_in_seconds": 3.3098785059992224,
+            "filesize_in_bytes": 1874427914
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.infer",
+            "filetype": "csv",
+            "compression": "infer",
+            "read_time_in_seconds": 22.364590602985118,
+            "write_time_in_seconds": 78.1116725410102,
+            "filesize_in_bytes": 2157812386
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.gzip",
+            "filetype": "csv",
+            "compression": "gzip",
+            "read_time_in_seconds": 28.969583338999655,
+            "write_time_in_seconds": 164.030965131009,
+            "filesize_in_bytes": 1024880920
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.bz2",
+            "filetype": "csv",
+            "compression": "bz2",
+            "read_time_in_seconds": 77.85580842697527,
+            "write_time_in_seconds": 193.15164997900138,
+            "filesize_in_bytes": 941813442
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.zip",
+            "filetype": "csv",
+            "compression": "zip",
+            "read_time_in_seconds": 28.038722267956473,
+            "write_time_in_seconds": 133.78904448397225,
+            "filesize_in_bytes": 1035725734
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.xz",
+            "filetype": "csv",
+            "compression": "xz",
+            "read_time_in_seconds": 67.8659448309918,
+            "write_time_in_seconds": 814.9810052429675,
+            "filesize_in_bytes": 919902148
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.zstd",
+            "filetype": "csv",
+            "compression": "zstd",
+            "read_time_in_seconds": 24.01290847803466,
+            "write_time_in_seconds": 95.33586413302692,
+            "filesize_in_bytes": 1026760715
+        }
+    ],
+    [
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.zstd",
+            "filetype": "parquet",
+            "compression": "zstd",
+            "read_time_in_seconds": 10.636941047036089,
+            "write_time_in_seconds": 7.797161131980829,
+            "filesize_in_bytes": 899409263
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.lz4",
+            "filetype": "parquet",
+            "compression": "lz4",
+            "read_time_in_seconds": 10.216200387047138,
+            "write_time_in_seconds": 5.846845788997598,
+            "filesize_in_bytes": 1298359688
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.brotli",
+            "filetype": "parquet",
+            "compression": "brotli",
+            "read_time_in_seconds": 12.781204979983158,
+            "write_time_in_seconds": 117.01672996400157,
+            "filesize_in_bytes": 921261895
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.gzip",
+            "filetype": "parquet",
+            "compression": "gzip",
+            "read_time_in_seconds": 14.172980142990127,
+            "write_time_in_seconds": 52.49448122596368,
+            "filesize_in_bytes": 927193207
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.snappy",
+            "filetype": "parquet",
+            "compression": "snappy",
+            "read_time_in_seconds": 10.779183577978984,
+            "write_time_in_seconds": 5.4798759469995275,
+            "filesize_in_bytes": 1296787822
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.none",
+            "filetype": "parquet",
+            "compression": "none",
+            "read_time_in_seconds": 9.749332107021473,
+            "write_time_in_seconds": 4.2056582670193166,
+            "filesize_in_bytes": 1745220412
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.zlib",
+            "filetype": "orc",
+            "compression": "zlib",
+            "read_time_in_seconds": 13.610681805002969,
+            "write_time_in_seconds": 31.939692120999098,
+            "filesize_in_bytes": 937283406
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.snappy",
+            "filetype": "orc",
+            "compression": "snappy",
+            "read_time_in_seconds": 9.872318998037372,
+            "write_time_in_seconds": 6.478291241044644,
+            "filesize_in_bytes": 1249877302
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.lz4",
+            "filetype": "orc",
+            "compression": "lz4",
+            "read_time_in_seconds": 9.517623377032578,
+            "write_time_in_seconds": 5.925913468003273,
+            "filesize_in_bytes": 1617864745
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.zstd",
+            "filetype": "orc",
+            "compression": "zstd",
+            "read_time_in_seconds": 10.439724926021881,
+            "write_time_in_seconds": 7.42123175796587,
+            "filesize_in_bytes": 907241800
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.uncompressed",
+            "filetype": "orc",
+            "compression": "uncompressed",
+            "read_time_in_seconds": 9.77547382004559,
+            "write_time_in_seconds": 5.753238693985622,
+            "filesize_in_bytes": 1617754319
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.lz4",
+            "filetype": "feather",
+            "compression": "lz4",
+            "read_time_in_seconds": 8.714699325966649,
+            "write_time_in_seconds": 3.4999562380253337,
+            "filesize_in_bytes": 1502098978
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.zstd",
+            "filetype": "feather",
+            "compression": "zstd",
+            "read_time_in_seconds": 9.012172676972114,
+            "write_time_in_seconds": 4.213169544003904,
+            "filesize_in_bytes": 1066376938
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.uncompressed",
+            "filetype": "feather",
+            "compression": "uncompressed",
+            "read_time_in_seconds": 8.387617211032193,
+            "write_time_in_seconds": 3.4197626520181075,
+            "filesize_in_bytes": 1874427914
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.infer",
+            "filetype": "csv",
+            "compression": "infer",
+            "read_time_in_seconds": 22.146962361992337,
+            "write_time_in_seconds": 77.91559343598783,
+            "filesize_in_bytes": 2157812386
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.gzip",
+            "filetype": "csv",
+            "compression": "gzip",
+            "read_time_in_seconds": 28.938949163013604,
+            "write_time_in_seconds": 160.6821524539846,
+            "filesize_in_bytes": 1024880920
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.bz2",
+            "filetype": "csv",
+            "compression": "bz2",
+            "read_time_in_seconds": 77.4612015549792,
+            "write_time_in_seconds": 192.43556492996868,
+            "filesize_in_bytes": 941813442
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.zip",
+            "filetype": "csv",
+            "compression": "zip",
+            "read_time_in_seconds": 27.815676258993335,
+            "write_time_in_seconds": 130.77398222999182,
+            "filesize_in_bytes": 1035725734
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.xz",
+            "filetype": "csv",
+            "compression": "xz",
+            "read_time_in_seconds": 68.01220827898942,
+            "write_time_in_seconds": 819.1286562640453,
+            "filesize_in_bytes": 919902148
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.zstd",
+            "filetype": "csv",
+            "compression": "zstd",
+            "read_time_in_seconds": 23.85461945197312,
+            "write_time_in_seconds": 94.15799138898728,
+            "filesize_in_bytes": 1026760715
+        }
+    ],
+    [
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.zstd",
+            "filetype": "parquet",
+            "compression": "zstd",
+            "read_time_in_seconds": 10.483786051976494,
+            "write_time_in_seconds": 7.993753871996887,
+            "filesize_in_bytes": 899409263
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.lz4",
+            "filetype": "parquet",
+            "compression": "lz4",
+            "read_time_in_seconds": 9.682516149012372,
+            "write_time_in_seconds": 6.091190077015199,
+            "filesize_in_bytes": 1298359688
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.brotli",
+            "filetype": "parquet",
+            "compression": "brotli",
+            "read_time_in_seconds": 13.011511860007886,
+            "write_time_in_seconds": 117.1147491770098,
+            "filesize_in_bytes": 921261895
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.gzip",
+            "filetype": "parquet",
+            "compression": "gzip",
+            "read_time_in_seconds": 14.14406267699087,
+            "write_time_in_seconds": 52.12689606199274,
+            "filesize_in_bytes": 927193207
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.snappy",
+            "filetype": "parquet",
+            "compression": "snappy",
+            "read_time_in_seconds": 10.273429008026142,
+            "write_time_in_seconds": 5.569431662966963,
+            "filesize_in_bytes": 1296787822
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.none",
+            "filetype": "parquet",
+            "compression": "none",
+            "read_time_in_seconds": 9.914279581047595,
+            "write_time_in_seconds": 4.263899221958127,
+            "filesize_in_bytes": 1745220412
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.zlib",
+            "filetype": "orc",
+            "compression": "zlib",
+            "read_time_in_seconds": 13.538960151025094,
+            "write_time_in_seconds": 32.32264698203653,
+            "filesize_in_bytes": 937283406
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.snappy",
+            "filetype": "orc",
+            "compression": "snappy",
+            "read_time_in_seconds": 9.860813793027773,
+            "write_time_in_seconds": 6.243122601998039,
+            "filesize_in_bytes": 1249877302
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.lz4",
+            "filetype": "orc",
+            "compression": "lz4",
+            "read_time_in_seconds": 9.591514939966146,
+            "write_time_in_seconds": 6.25573642400559,
+            "filesize_in_bytes": 1617864745
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.zstd",
+            "filetype": "orc",
+            "compression": "zstd",
+            "read_time_in_seconds": 10.515459503047168,
+            "write_time_in_seconds": 7.443852294003591,
+            "filesize_in_bytes": 907241800
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.uncompressed",
+            "filetype": "orc",
+            "compression": "uncompressed",
+            "read_time_in_seconds": 9.504394304007292,
+            "write_time_in_seconds": 5.76733407296706,
+            "filesize_in_bytes": 1617754319
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.lz4",
+            "filetype": "feather",
+            "compression": "lz4",
+            "read_time_in_seconds": 8.90166653104825,
+            "write_time_in_seconds": 3.5983709070133045,
+            "filesize_in_bytes": 1502098978
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.zstd",
+            "filetype": "feather",
+            "compression": "zstd",
+            "read_time_in_seconds": 9.254024246009067,
+            "write_time_in_seconds": 4.269498242007103,
+            "filesize_in_bytes": 1066376938
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.uncompressed",
+            "filetype": "feather",
+            "compression": "uncompressed",
+            "read_time_in_seconds": 8.653774082951713,
+            "write_time_in_seconds": 3.2994676710222848,
+            "filesize_in_bytes": 1874427914
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.infer",
+            "filetype": "csv",
+            "compression": "infer",
+            "read_time_in_seconds": 22.373137273010798,
+            "write_time_in_seconds": 78.23706078896066,
+            "filesize_in_bytes": 2157812386
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.gzip",
+            "filetype": "csv",
+            "compression": "gzip",
+            "read_time_in_seconds": 29.063635935948696,
+            "write_time_in_seconds": 165.297239920008,
+            "filesize_in_bytes": 1024880920
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.bz2",
+            "filetype": "csv",
+            "compression": "bz2",
+            "read_time_in_seconds": 77.05744846002199,
+            "write_time_in_seconds": 193.14760703995125,
+            "filesize_in_bytes": 941813442
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.zip",
+            "filetype": "csv",
+            "compression": "zip",
+            "read_time_in_seconds": 27.721625660022255,
+            "write_time_in_seconds": 133.38567105599213,
+            "filesize_in_bytes": 1035725734
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.xz",
+            "filetype": "csv",
+            "compression": "xz",
+            "read_time_in_seconds": 68.2132308849832,
+            "write_time_in_seconds": 812.6552076269872,
+            "filesize_in_bytes": 919902148
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.zstd",
+            "filetype": "csv",
+            "compression": "zstd",
+            "read_time_in_seconds": 23.91474252199987,
+            "write_time_in_seconds": 93.70109648205107,
+            "filesize_in_bytes": 1026760715
+        }
+    ],
+    [
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.zstd",
+            "filetype": "parquet",
+            "compression": "zstd",
+            "read_time_in_seconds": 10.68450459901942,
+            "write_time_in_seconds": 7.9165426879771985,
+            "filesize_in_bytes": 899409263
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.lz4",
+            "filetype": "parquet",
+            "compression": "lz4",
+            "read_time_in_seconds": 9.779933492012788,
+            "write_time_in_seconds": 5.933950099046342,
+            "filesize_in_bytes": 1298359688
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.brotli",
+            "filetype": "parquet",
+            "compression": "brotli",
+            "read_time_in_seconds": 13.168965173012111,
+            "write_time_in_seconds": 119.47120019001886,
+            "filesize_in_bytes": 921261895
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.gzip",
+            "filetype": "parquet",
+            "compression": "gzip",
+            "read_time_in_seconds": 14.223595484043472,
+            "write_time_in_seconds": 52.782843697001226,
+            "filesize_in_bytes": 927193207
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.snappy",
+            "filetype": "parquet",
+            "compression": "snappy",
+            "read_time_in_seconds": 10.31448876397917,
+            "write_time_in_seconds": 5.51764292398002,
+            "filesize_in_bytes": 1296787822
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.none",
+            "filetype": "parquet",
+            "compression": "none",
+            "read_time_in_seconds": 10.13973461498972,
+            "write_time_in_seconds": 4.167845172982197,
+            "filesize_in_bytes": 1745220412
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.zlib",
+            "filetype": "orc",
+            "compression": "zlib",
+            "read_time_in_seconds": 13.562023869017139,
+            "write_time_in_seconds": 31.83218016900355,
+            "filesize_in_bytes": 937283406
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.snappy",
+            "filetype": "orc",
+            "compression": "snappy",
+            "read_time_in_seconds": 9.976264163968153,
+            "write_time_in_seconds": 6.260564295051154,
+            "filesize_in_bytes": 1249877302
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.lz4",
+            "filetype": "orc",
+            "compression": "lz4",
+            "read_time_in_seconds": 9.624544461024925,
+            "write_time_in_seconds": 6.0830271349987015,
+            "filesize_in_bytes": 1617864745
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.zstd",
+            "filetype": "orc",
+            "compression": "zstd",
+            "read_time_in_seconds": 10.511125799966976,
+            "write_time_in_seconds": 7.506796556990594,
+            "filesize_in_bytes": 907241800
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.uncompressed",
+            "filetype": "orc",
+            "compression": "uncompressed",
+            "read_time_in_seconds": 9.60655855096411,
+            "write_time_in_seconds": 5.648483589000534,
+            "filesize_in_bytes": 1617754319
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.lz4",
+            "filetype": "feather",
+            "compression": "lz4",
+            "read_time_in_seconds": 8.642865668982267,
+            "write_time_in_seconds": 3.783348405966535,
+            "filesize_in_bytes": 1502098978
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.zstd",
+            "filetype": "feather",
+            "compression": "zstd",
+            "read_time_in_seconds": 9.09069197694771,
+            "write_time_in_seconds": 4.566131966013927,
+            "filesize_in_bytes": 1066376938
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.uncompressed",
+            "filetype": "feather",
+            "compression": "uncompressed",
+            "read_time_in_seconds": 8.634435205021873,
+            "write_time_in_seconds": 3.4015781710040756,
+            "filesize_in_bytes": 1874427914
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.infer",
+            "filetype": "csv",
+            "compression": "infer",
+            "read_time_in_seconds": 22.227632033987902,
+            "write_time_in_seconds": 77.27670545701403,
+            "filesize_in_bytes": 2157812386
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.gzip",
+            "filetype": "csv",
+            "compression": "gzip",
+            "read_time_in_seconds": 28.94258831901243,
+            "write_time_in_seconds": 165.13930328498827,
+            "filesize_in_bytes": 1024880920
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.bz2",
+            "filetype": "csv",
+            "compression": "bz2",
+            "read_time_in_seconds": 78.41624383500312,
+            "write_time_in_seconds": 193.04531058698194,
+            "filesize_in_bytes": 941813442
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.zip",
+            "filetype": "csv",
+            "compression": "zip",
+            "read_time_in_seconds": 27.870705451990943,
+            "write_time_in_seconds": 131.6087373160408,
+            "filesize_in_bytes": 1035725734
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.xz",
+            "filetype": "csv",
+            "compression": "xz",
+            "read_time_in_seconds": 68.15617779898457,
+            "write_time_in_seconds": 812.1280111739761,
+            "filesize_in_bytes": 919902148
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.zstd",
+            "filetype": "csv",
+            "compression": "zstd",
+            "read_time_in_seconds": 24.092700898007024,
+            "write_time_in_seconds": 95.71722019498702,
+            "filesize_in_bytes": 1026760715
+        }
+    ],
+    [
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.zstd",
+            "filetype": "parquet",
+            "compression": "zstd",
+            "read_time_in_seconds": 10.595642553991638,
+            "write_time_in_seconds": 7.9922300319885835,
+            "filesize_in_bytes": 899409263
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.lz4",
+            "filetype": "parquet",
+            "compression": "lz4",
+            "read_time_in_seconds": 9.746006829023827,
+            "write_time_in_seconds": 5.95773015904706,
+            "filesize_in_bytes": 1298359688
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.brotli",
+            "filetype": "parquet",
+            "compression": "brotli",
+            "read_time_in_seconds": 13.150670926028397,
+            "write_time_in_seconds": 118.66067062399816,
+            "filesize_in_bytes": 921261895
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.gzip",
+            "filetype": "parquet",
+            "compression": "gzip",
+            "read_time_in_seconds": 14.007220041996334,
+            "write_time_in_seconds": 51.626333385007456,
+            "filesize_in_bytes": 927193207
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.snappy",
+            "filetype": "parquet",
+            "compression": "snappy",
+            "read_time_in_seconds": 10.328098497993778,
+            "write_time_in_seconds": 5.493890028970782,
+            "filesize_in_bytes": 1296787822
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.none",
+            "filetype": "parquet",
+            "compression": "none",
+            "read_time_in_seconds": 9.945954469032586,
+            "write_time_in_seconds": 4.358984019025229,
+            "filesize_in_bytes": 1745220412
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.zlib",
+            "filetype": "orc",
+            "compression": "zlib",
+            "read_time_in_seconds": 13.719446211005561,
+            "write_time_in_seconds": 31.94867582799634,
+            "filesize_in_bytes": 937283406
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.snappy",
+            "filetype": "orc",
+            "compression": "snappy",
+            "read_time_in_seconds": 10.006671959010419,
+            "write_time_in_seconds": 6.59665311203571,
+            "filesize_in_bytes": 1249877302
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.lz4",
+            "filetype": "orc",
+            "compression": "lz4",
+            "read_time_in_seconds": 9.778263108048122,
+            "write_time_in_seconds": 5.830376613012049,
+            "filesize_in_bytes": 1617864745
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.zstd",
+            "filetype": "orc",
+            "compression": "zstd",
+            "read_time_in_seconds": 10.36023531400133,
+            "write_time_in_seconds": 7.703122726990841,
+            "filesize_in_bytes": 907241800
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.uncompressed",
+            "filetype": "orc",
+            "compression": "uncompressed",
+            "read_time_in_seconds": 9.771028743009083,
+            "write_time_in_seconds": 5.664191933989059,
+            "filesize_in_bytes": 1617754319
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.lz4",
+            "filetype": "feather",
+            "compression": "lz4",
+            "read_time_in_seconds": 8.767694496025797,
+            "write_time_in_seconds": 3.553900116996374,
+            "filesize_in_bytes": 1502098978
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.zstd",
+            "filetype": "feather",
+            "compression": "zstd",
+            "read_time_in_seconds": 9.298552118998487,
+            "write_time_in_seconds": 4.206423089024611,
+            "filesize_in_bytes": 1066376938
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.uncompressed",
+            "filetype": "feather",
+            "compression": "uncompressed",
+            "read_time_in_seconds": 8.423368557996582,
+            "write_time_in_seconds": 3.2928900330443867,
+            "filesize_in_bytes": 1874427914
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.infer",
+            "filetype": "csv",
+            "compression": "infer",
+            "read_time_in_seconds": 22.3815642829868,
+            "write_time_in_seconds": 77.52286980603822,
+            "filesize_in_bytes": 2157812386
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.gzip",
+            "filetype": "csv",
+            "compression": "gzip",
+            "read_time_in_seconds": 29.116911510995124,
+            "write_time_in_seconds": 160.91877600195585,
+            "filesize_in_bytes": 1024880920
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.bz2",
+            "filetype": "csv",
+            "compression": "bz2",
+            "read_time_in_seconds": 78.09712946700165,
+            "write_time_in_seconds": 193.44026635901537,
+            "filesize_in_bytes": 941813442
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.zip",
+            "filetype": "csv",
+            "compression": "zip",
+            "read_time_in_seconds": 27.856239765998907,
+            "write_time_in_seconds": 132.37970784597564,
+            "filesize_in_bytes": 1035725734
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.xz",
+            "filetype": "csv",
+            "compression": "xz",
+            "read_time_in_seconds": 69.29858041502303,
+            "write_time_in_seconds": 819.5862153130001,
+            "filesize_in_bytes": 919902148
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.zstd",
+            "filetype": "csv",
+            "compression": "zstd",
+            "read_time_in_seconds": 23.88041277497541,
+            "write_time_in_seconds": 94.63288394699339,
+            "filesize_in_bytes": 1026760715
+        }
+    ],
+    [
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.zstd",
+            "filetype": "parquet",
+            "compression": "zstd",
+            "read_time_in_seconds": 10.52847960399231,
+            "write_time_in_seconds": 8.272511916991789,
+            "filesize_in_bytes": 899409263
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.lz4",
+            "filetype": "parquet",
+            "compression": "lz4",
+            "read_time_in_seconds": 10.061143333034124,
+            "write_time_in_seconds": 5.918101430987008,
+            "filesize_in_bytes": 1298359688
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.brotli",
+            "filetype": "parquet",
+            "compression": "brotli",
+            "read_time_in_seconds": 12.893748327973299,
+            "write_time_in_seconds": 118.11886093899375,
+            "filesize_in_bytes": 921261895
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.gzip",
+            "filetype": "parquet",
+            "compression": "gzip",
+            "read_time_in_seconds": 14.109254131966736,
+            "write_time_in_seconds": 52.74047175899614,
+            "filesize_in_bytes": 927193207
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.snappy",
+            "filetype": "parquet",
+            "compression": "snappy",
+            "read_time_in_seconds": 10.387285667995457,
+            "write_time_in_seconds": 5.769633409974631,
+            "filesize_in_bytes": 1296787822
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.none",
+            "filetype": "parquet",
+            "compression": "none",
+            "read_time_in_seconds": 9.881121809012257,
+            "write_time_in_seconds": 4.294754631002434,
+            "filesize_in_bytes": 1745220412
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.zlib",
+            "filetype": "orc",
+            "compression": "zlib",
+            "read_time_in_seconds": 13.62159110797802,
+            "write_time_in_seconds": 32.1038911039941,
+            "filesize_in_bytes": 937283406
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.snappy",
+            "filetype": "orc",
+            "compression": "snappy",
+            "read_time_in_seconds": 9.807058783015236,
+            "write_time_in_seconds": 6.28358476102585,
+            "filesize_in_bytes": 1249877302
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.lz4",
+            "filetype": "orc",
+            "compression": "lz4",
+            "read_time_in_seconds": 9.745322223985568,
+            "write_time_in_seconds": 5.906552825006656,
+            "filesize_in_bytes": 1617864745
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.zstd",
+            "filetype": "orc",
+            "compression": "zstd",
+            "read_time_in_seconds": 10.372891788021661,
+            "write_time_in_seconds": 7.48712741601048,
+            "filesize_in_bytes": 907241800
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.uncompressed",
+            "filetype": "orc",
+            "compression": "uncompressed",
+            "read_time_in_seconds": 9.657839206047356,
+            "write_time_in_seconds": 6.026540749997366,
+            "filesize_in_bytes": 1617754319
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.lz4",
+            "filetype": "feather",
+            "compression": "lz4",
+            "read_time_in_seconds": 8.67294335598126,
+            "write_time_in_seconds": 3.516122095985338,
+            "filesize_in_bytes": 1502098978
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.zstd",
+            "filetype": "feather",
+            "compression": "zstd",
+            "read_time_in_seconds": 9.19038536195876,
+            "write_time_in_seconds": 4.230707248963881,
+            "filesize_in_bytes": 1066376938
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.uncompressed",
+            "filetype": "feather",
+            "compression": "uncompressed",
+            "read_time_in_seconds": 8.546505644975696,
+            "write_time_in_seconds": 3.4058106429874897,
+            "filesize_in_bytes": 1874427914
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.infer",
+            "filetype": "csv",
+            "compression": "infer",
+            "read_time_in_seconds": 22.472244229051284,
+            "write_time_in_seconds": 78.52969689294696,
+            "filesize_in_bytes": 2157812386
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.gzip",
+            "filetype": "csv",
+            "compression": "gzip",
+            "read_time_in_seconds": 29.15605179098202,
+            "write_time_in_seconds": 163.6827289100038,
+            "filesize_in_bytes": 1024880920
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.bz2",
+            "filetype": "csv",
+            "compression": "bz2",
+            "read_time_in_seconds": 77.29004619800253,
+            "write_time_in_seconds": 192.14237970102113,
+            "filesize_in_bytes": 941813442
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.zip",
+            "filetype": "csv",
+            "compression": "zip",
+            "read_time_in_seconds": 27.737378627003636,
+            "write_time_in_seconds": 130.80191803799244,
+            "filesize_in_bytes": 1035725734
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.xz",
+            "filetype": "csv",
+            "compression": "xz",
+            "read_time_in_seconds": 68.04237873898819,
+            "write_time_in_seconds": 816.0244108560146,
+            "filesize_in_bytes": 919902148
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.zstd",
+            "filetype": "csv",
+            "compression": "zstd",
+            "read_time_in_seconds": 23.809227182005998,
+            "write_time_in_seconds": 93.31772751000244,
+            "filesize_in_bytes": 1026760715
+        }
+    ],
+    [
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.zstd",
+            "filetype": "parquet",
+            "compression": "zstd",
+            "read_time_in_seconds": 10.543634929985274,
+            "write_time_in_seconds": 7.924903334991541,
+            "filesize_in_bytes": 899409263
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.lz4",
+            "filetype": "parquet",
+            "compression": "lz4",
+            "read_time_in_seconds": 10.208165307994932,
+            "write_time_in_seconds": 6.074615942023229,
+            "filesize_in_bytes": 1298359688
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.brotli",
+            "filetype": "parquet",
+            "compression": "brotli",
+            "read_time_in_seconds": 12.860763533040881,
+            "write_time_in_seconds": 115.96033080096822,
+            "filesize_in_bytes": 921261895
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.gzip",
+            "filetype": "parquet",
+            "compression": "gzip",
+            "read_time_in_seconds": 13.880510088987648,
+            "write_time_in_seconds": 52.537735365040135,
+            "filesize_in_bytes": 927193207
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.snappy",
+            "filetype": "parquet",
+            "compression": "snappy",
+            "read_time_in_seconds": 10.332324468006846,
+            "write_time_in_seconds": 5.502043699030764,
+            "filesize_in_bytes": 1296787822
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.parquet.none",
+            "filetype": "parquet",
+            "compression": "none",
+            "read_time_in_seconds": 9.905102684977464,
+            "write_time_in_seconds": 4.2535639249836095,
+            "filesize_in_bytes": 1745220412
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.zlib",
+            "filetype": "orc",
+            "compression": "zlib",
+            "read_time_in_seconds": 13.592324845027179,
+            "write_time_in_seconds": 31.686504307028372,
+            "filesize_in_bytes": 937283406
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.snappy",
+            "filetype": "orc",
+            "compression": "snappy",
+            "read_time_in_seconds": 10.07943978602998,
+            "write_time_in_seconds": 6.291789167036768,
+            "filesize_in_bytes": 1249877302
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.lz4",
+            "filetype": "orc",
+            "compression": "lz4",
+            "read_time_in_seconds": 9.749250794993713,
+            "write_time_in_seconds": 5.839271140983328,
+            "filesize_in_bytes": 1617864745
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.zstd",
+            "filetype": "orc",
+            "compression": "zstd",
+            "read_time_in_seconds": 10.680266586015932,
+            "write_time_in_seconds": 7.690339201013558,
+            "filesize_in_bytes": 907241800
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.orc.uncompressed",
+            "filetype": "orc",
+            "compression": "uncompressed",
+            "read_time_in_seconds": 9.527392251009587,
+            "write_time_in_seconds": 5.7507395259453915,
+            "filesize_in_bytes": 1617754319
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.lz4",
+            "filetype": "feather",
+            "compression": "lz4",
+            "read_time_in_seconds": 8.666666643053759,
+            "write_time_in_seconds": 3.5809134760056622,
+            "filesize_in_bytes": 1502098978
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.zstd",
+            "filetype": "feather",
+            "compression": "zstd",
+            "read_time_in_seconds": 9.250702655990608,
+            "write_time_in_seconds": 4.260825882956851,
+            "filesize_in_bytes": 1066376938
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.feather.uncompressed",
+            "filetype": "feather",
+            "compression": "uncompressed",
+            "read_time_in_seconds": 8.417908810952213,
+            "write_time_in_seconds": 3.385700693994295,
+            "filesize_in_bytes": 1874427914
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.infer",
+            "filetype": "csv",
+            "compression": "infer",
+            "read_time_in_seconds": 22.45034796599066,
+            "write_time_in_seconds": 77.47357854002621,
+            "filesize_in_bytes": 2157812386
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.gzip",
+            "filetype": "csv",
+            "compression": "gzip",
+            "read_time_in_seconds": 28.977835842000786,
+            "write_time_in_seconds": 165.32753032597248,
+            "filesize_in_bytes": 1024880920
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.bz2",
+            "filetype": "csv",
+            "compression": "bz2",
+            "read_time_in_seconds": 77.68130459304666,
+            "write_time_in_seconds": 192.177164557972,
+            "filesize_in_bytes": 941813442
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.zip",
+            "filetype": "csv",
+            "compression": "zip",
+            "read_time_in_seconds": 27.81216808501631,
+            "write_time_in_seconds": 130.56708388600964,
+            "filesize_in_bytes": 1035725734
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.xz",
+            "filetype": "csv",
+            "compression": "xz",
+            "read_time_in_seconds": 68.03138622100232,
+            "write_time_in_seconds": 818.7366826609941,
+            "filesize_in_bytes": 919902148
+        },
+        {
+            "filename": "data/small/day1/compressed/2022_place_canvas_history.csv.zstd",
+            "filetype": "csv",
+            "compression": "zstd",
+            "read_time_in_seconds": 23.881943312997464,
+            "write_time_in_seconds": 94.40266103600152,
+            "filesize_in_bytes": 1026760715
+        }
+    ]
+]

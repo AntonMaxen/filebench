@@ -1,0 +1,1302 @@
+[
+    [
+        {
+            "function": "entire_file_to_df",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 12.692349418008234
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 11.92931369296275
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 11.665467868035194
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 12.347114906995557
+                }
+            ]
+        },
+        {
+            "function": "get_amount_participants",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 1995588,
+                    "time_in_seconds": 9.032898402016144
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 1995588,
+                    "time_in_seconds": 7.937459652021062
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 1995588,
+                    "time_in_seconds": 8.091164514014963
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 1995588,
+                    "time_in_seconds": 13.68572300003143
+                }
+            ]
+        },
+        {
+            "function": "get_amount_colors_used",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 16,
+                    "time_in_seconds": 0.6514966239919886
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 16,
+                    "time_in_seconds": 0.6307694200077094
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 16,
+                    "time_in_seconds": 0.5391819369979203
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 16,
+                    "time_in_seconds": 9.337122101977002
+                }
+            ]
+        },
+        {
+            "function": "get_number_of_rows",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.00039035797817632556
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 12278385,
+                    "time_in_seconds": 1.5381702849990688
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.4587579490034841
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.7675719730323181
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "function": "entire_file_to_df",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 10.592697852989659
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 9.68796435603872
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 8.767996506008785
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 9.043321707984433
+                }
+            ]
+        },
+        {
+            "function": "get_amount_participants",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 1995588,
+                    "time_in_seconds": 9.079783216991927
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 1995588,
+                    "time_in_seconds": 8.139873141015414
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 1995588,
+                    "time_in_seconds": 8.130764524976257
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 1995588,
+                    "time_in_seconds": 13.37139790598303
+                }
+            ]
+        },
+        {
+            "function": "get_amount_colors_used",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 16,
+                    "time_in_seconds": 0.6516714390018024
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 16,
+                    "time_in_seconds": 0.6513804740388878
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 16,
+                    "time_in_seconds": 0.5400206740014255
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 16,
+                    "time_in_seconds": 9.29366015800042
+                }
+            ]
+        },
+        {
+            "function": "get_number_of_rows",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.0003546630032360554
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 12278385,
+                    "time_in_seconds": 1.508099147991743
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.43789167201612145
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.7115849410183728
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "function": "entire_file_to_df",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 10.658983794040978
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 9.609171095013153
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 8.67256431299029
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 9.085582247993443
+                }
+            ]
+        },
+        {
+            "function": "get_amount_participants",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 1995588,
+                    "time_in_seconds": 9.040532308979891
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 1995588,
+                    "time_in_seconds": 7.96482447499875
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 1995588,
+                    "time_in_seconds": 7.924233446014114
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 1995588,
+                    "time_in_seconds": 12.79586657404434
+                }
+            ]
+        },
+        {
+            "function": "get_amount_colors_used",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 16,
+                    "time_in_seconds": 0.6519300699583255
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 16,
+                    "time_in_seconds": 0.6267092850175686
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 16,
+                    "time_in_seconds": 0.5369317490258254
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 16,
+                    "time_in_seconds": 9.225941455981229
+                }
+            ]
+        },
+        {
+            "function": "get_number_of_rows",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.0002771169529296458
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 12278385,
+                    "time_in_seconds": 1.5127529629971832
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.441023325023707
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.711125154979527
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "function": "entire_file_to_df",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 10.538444504025392
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 9.593489122984465
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 8.556396961968858
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 9.079328152001835
+                }
+            ]
+        },
+        {
+            "function": "get_amount_participants",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 1995588,
+                    "time_in_seconds": 8.985874255013186
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 1995588,
+                    "time_in_seconds": 7.9774996470077895
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 1995588,
+                    "time_in_seconds": 8.005141982983332
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 1995588,
+                    "time_in_seconds": 13.262633183971047
+                }
+            ]
+        },
+        {
+            "function": "get_amount_colors_used",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 16,
+                    "time_in_seconds": 0.6619258290156722
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 16,
+                    "time_in_seconds": 0.6108009640011005
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 16,
+                    "time_in_seconds": 0.5372383380308747
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 16,
+                    "time_in_seconds": 9.184689487039577
+                }
+            ]
+        },
+        {
+            "function": "get_number_of_rows",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.0003620660281740129
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 12278385,
+                    "time_in_seconds": 1.510937859013211
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.44070434500463307
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.6960162989562377
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "function": "entire_file_to_df",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 10.480399833992124
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 9.559118702018168
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 8.579312535992358
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 9.067968808987644
+                }
+            ]
+        },
+        {
+            "function": "get_amount_participants",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 1995588,
+                    "time_in_seconds": 9.04377620399464
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 1995588,
+                    "time_in_seconds": 7.965227066015359
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 1995588,
+                    "time_in_seconds": 7.793782861030195
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 1995588,
+                    "time_in_seconds": 12.878833042981569
+                }
+            ]
+        },
+        {
+            "function": "get_amount_colors_used",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 16,
+                    "time_in_seconds": 0.6424936650437303
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 16,
+                    "time_in_seconds": 0.6180972160072997
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 16,
+                    "time_in_seconds": 0.5333283690270036
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 16,
+                    "time_in_seconds": 9.151543137966655
+                }
+            ]
+        },
+        {
+            "function": "get_number_of_rows",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.0003853159723803401
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 12278385,
+                    "time_in_seconds": 1.5295281209982932
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.4395598400151357
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.7086801600526087
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "function": "entire_file_to_df",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 10.870683886983898
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 9.608266130031552
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 8.662303076998796
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 9.006029208016116
+                }
+            ]
+        },
+        {
+            "function": "get_amount_participants",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 1995588,
+                    "time_in_seconds": 8.848674415028654
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 1995588,
+                    "time_in_seconds": 8.009468179021496
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 1995588,
+                    "time_in_seconds": 8.056325441983063
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 1995588,
+                    "time_in_seconds": 12.854468376026489
+                }
+            ]
+        },
+        {
+            "function": "get_amount_colors_used",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 16,
+                    "time_in_seconds": 0.6488082890282385
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 16,
+                    "time_in_seconds": 0.6090975030092523
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 16,
+                    "time_in_seconds": 0.528942652978003
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 16,
+                    "time_in_seconds": 9.114332686993293
+                }
+            ]
+        },
+        {
+            "function": "get_number_of_rows",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.0004000510089099407
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 12278385,
+                    "time_in_seconds": 1.4899307520245202
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.4419599350076169
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.7096256439690478
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "function": "entire_file_to_df",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 10.831478277978022
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 9.616192095039878
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 8.606074770039413
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 9.078480987984221
+                }
+            ]
+        },
+        {
+            "function": "get_amount_participants",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 1995588,
+                    "time_in_seconds": 9.019077516975813
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 1995588,
+                    "time_in_seconds": 8.00044308003271
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 1995588,
+                    "time_in_seconds": 7.933795091987122
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 1995588,
+                    "time_in_seconds": 12.920181616966147
+                }
+            ]
+        },
+        {
+            "function": "get_amount_colors_used",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 16,
+                    "time_in_seconds": 0.6437368379556574
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 16,
+                    "time_in_seconds": 0.6085527139948681
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 16,
+                    "time_in_seconds": 0.5337142769712955
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 16,
+                    "time_in_seconds": 9.204763458983507
+                }
+            ]
+        },
+        {
+            "function": "get_number_of_rows",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.00035899097565561533
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 12278385,
+                    "time_in_seconds": 1.5147773129865527
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.44088030501734465
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.9503933860105462
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "function": "entire_file_to_df",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 10.388873789983336
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 9.588052961975336
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 8.627985427039675
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 9.253471784992144
+                }
+            ]
+        },
+        {
+            "function": "get_amount_participants",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 1995588,
+                    "time_in_seconds": 9.170816174009815
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 1995588,
+                    "time_in_seconds": 8.080771037959494
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 1995588,
+                    "time_in_seconds": 7.882119493035134
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 1995588,
+                    "time_in_seconds": 13.293438568012789
+                }
+            ]
+        },
+        {
+            "function": "get_amount_colors_used",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 16,
+                    "time_in_seconds": 0.6435428730328567
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 16,
+                    "time_in_seconds": 0.6301892549963668
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 16,
+                    "time_in_seconds": 0.5276564339874312
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 16,
+                    "time_in_seconds": 9.081544706015848
+                }
+            ]
+        },
+        {
+            "function": "get_number_of_rows",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.0004231180064380169
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 12278385,
+                    "time_in_seconds": 1.5182210670318455
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.4414597090217285
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.7253548610024154
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "function": "entire_file_to_df",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 10.822823883034289
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 9.555389428976923
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 8.625967566040345
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 9.10242114099674
+                }
+            ]
+        },
+        {
+            "function": "get_amount_participants",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 1995588,
+                    "time_in_seconds": 8.90459935797844
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 1995588,
+                    "time_in_seconds": 8.01321150601143
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 1995588,
+                    "time_in_seconds": 7.812218703969847
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 1995588,
+                    "time_in_seconds": 13.031828208011575
+                }
+            ]
+        },
+        {
+            "function": "get_amount_colors_used",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 16,
+                    "time_in_seconds": 0.6514577579800971
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 16,
+                    "time_in_seconds": 0.618809178005904
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 16,
+                    "time_in_seconds": 0.5434730530250818
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 16,
+                    "time_in_seconds": 9.172181179979816
+                }
+            ]
+        },
+        {
+            "function": "get_number_of_rows",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.00045189401134848595
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 12278385,
+                    "time_in_seconds": 1.4999786589760333
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.4412593999877572
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.7125626649940386
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "function": "entire_file_to_df",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 10.57154996600002
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 9.572414565016516
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 8.517372279020492
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": [
+                        12278385,
+                        6
+                    ],
+                    "time_in_seconds": 8.9063449879759
+                }
+            ]
+        },
+        {
+            "function": "get_amount_participants",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 1995588,
+                    "time_in_seconds": 8.592999160988256
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 1995588,
+                    "time_in_seconds": 7.968470124003943
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 1995588,
+                    "time_in_seconds": 7.962261507986113
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 1995588,
+                    "time_in_seconds": 13.348956229980104
+                }
+            ]
+        },
+        {
+            "function": "get_amount_colors_used",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 16,
+                    "time_in_seconds": 0.6500967200263403
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 16,
+                    "time_in_seconds": 0.6151746459654532
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 16,
+                    "time_in_seconds": 0.5387905410025269
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 16,
+                    "time_in_seconds": 9.268336948007345
+                }
+            ]
+        },
+        {
+            "function": "get_number_of_rows",
+            "results": [
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.parquet",
+                    "filetype": "parquet",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.0003466559574007988
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.orc",
+                    "filetype": "orc",
+                    "func_return": 12278385,
+                    "time_in_seconds": 1.5091445610160008
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.feather",
+                    "filetype": "feather",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.4386914779897779
+                },
+                {
+                    "filename": "data/small/day1/2022_place_canvas_history.csv",
+                    "filetype": "csv",
+                    "func_return": 12278385,
+                    "time_in_seconds": 0.7168757430044934
+                }
+            ]
+        }
+    ]
+]
