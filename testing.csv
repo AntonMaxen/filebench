@@ -1,0 +1,17 @@
+filetype,func_name,time_in_seconds
+csv,entire_file_to_df,9.397006393392804
+csv,get_amount_colors_used,9.203411532094469
+csv,get_amount_participants,13.144332670600852
+csv,get_number_of_rows,0.7409790827019606
+feather,entire_file_to_df,8.92814413041342
+feather,get_amount_colors_used,0.5359278025047388
+feather,get_amount_participants,7.959180756798014
+feather,get_number_of_rows,0.44221879580873064
+orc,entire_file_to_df,9.831937215005746
+orc,get_amount_colors_used,0.621958065504441
+orc,get_amount_participants,8.005724790808745
+orc,get_number_of_rows,1.5131540728034452
+parquet,entire_file_to_df,10.844828520703595
+parquet,get_amount_colors_used,0.6497160105034709
+parquet,get_amount_participants,8.971903101197677
+parquet,get_number_of_rows,0.00037502298946492376
